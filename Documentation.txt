@@ -1,0 +1,9 @@
+TO-DO APP
+
+This is a simple to-do checklist app, built with simple HTML, CSS and JavaScript.
+
+FEATURES
+Ability to add and delete line items at will
+"Priority" star system that puts high-priority items at the top of the list
+Ability to duplicate items and edit them after they've been created
+
