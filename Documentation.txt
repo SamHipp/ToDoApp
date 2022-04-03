@@ -4,5 +4,7 @@ This is a simple to-do checklist app, built with simple HTML, CSS and JavaScript
 
 FEATURES
 Ability to add and delete line items at will
+ -Enter the task you'd like to add in the field, and press "add" to add it
+ -Delete tasks you've accomplished with the "X" button on the right side
 
 
